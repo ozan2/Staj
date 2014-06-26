@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CV Bank</title>
+</head>
+<body onclick="http://localhost:8080/cvBank/test">
+TEST
+<form>
+		<input type="submit" value="Show The Applicants" onclick="/test"> 
+		
+	</form></body>
+</html>
